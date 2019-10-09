@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
 
 N = int(input())
 kay= list(map(int, input().split()))
@@ -12,19 +7,8 @@ print(abs(K))
     
 
 
-# In[ ]:
 
 
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
