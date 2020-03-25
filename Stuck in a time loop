@@ -1,0 +1,7 @@
+import sys 
+n =int(input())
+for n< 1 or n >100:
+  sys exit()
+For i in range(n):
+  print (f'{i +1} Abracadabra)
+  
